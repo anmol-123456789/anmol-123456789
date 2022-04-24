@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @anmol-123456789
-- 👀 I’m interested in  ai and python...
-- 🌱 I’m currently learning java,c## and python🐍 ...
-- 💞️ I’m looking to collaborate on ai and python...
-- 📫 How to reach me - dm at FakeLazarbeam#8486 discord ...
+<a href="https://pythondiscord.com"><img width="240" align="right" src="https://github.com/lemonsaurus/lemonsaurus/blob/main/ducky.png?raw=true"></a>
 
-<!---
-anmol-123456789/anmol-123456789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Anmol.;Hi+there%2C+I'm+Anmol+Nambiar%C3%B8y.;Hi+there%2C+you+can+call+me+Anm0lc0der.;Hi+there%2C+I'm+a+content+creator.;Hi+there%2C+I'm+a+software+engineer.;Hi+there%2C+I'm+a+musician.)](https://bit.ly/anmolcoder)
+I make stuff. Sometimes people like the stuff I make. LOL
+
+
+
+You can find me on the [quora](https://www.quora.com/profile/Anm0lc0der), and on [Reddit](https://www.reddit.com/user/Appu100). 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Kx3XASSqXK)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxutoky3QoWe5yKy9T0O-0g)
