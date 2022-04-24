@@ -1,4 +1,4 @@
-<a href="https://pythondiscord.com"><img width="240" align="right" src="https://github.com/lemonsaurus/lemonsaurus/blob/main/ducky.png?raw=true"></a>
+<a href="https://bit.ly/anmolcoder"><img width="240" align="right" src="https://github.com/lemonsaurus/lemonsaurus/blob/main/ducky.png?raw=true"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Anm0lc0der.;Hi+there%2C+I'm+Anmol+Nambiar%C3%B8y.;Hi+there%2C+you+can+call+me+Anm0lc0der.;Hi+there%2C+I'm+a+content+creator.;Hi+there%2C+I'm+a+software+engineer.;Hi+there%2C+I'm+a+musician.)](https://bit.ly/anmolcoder)
 
