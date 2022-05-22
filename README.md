@@ -10,5 +10,7 @@ You can find me on the [quora](https://www.quora.com/profile/Anm0lc0der), and on
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmol-123456789)]
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=anmol-123456789)]
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Kx3XASSqXK)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxutoky3QoWe5yKy9T0O-0g)
